@@ -2,7 +2,7 @@
 * FATEC SP
  * LP - Prof. Grace - 20/09/2015
  * Rafael Santos - re: 15100236
- * Atividade 21 - macros (boolean)
+ * Atividade 22 - Converte caixa alta/baixa
  */
 #include <stdio.h>
 #include <conio.h>
